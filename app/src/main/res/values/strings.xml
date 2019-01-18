@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Плеер</string>
+    <string name="title_activity_music_info">MusicInfoActivity</string>
+</resources>
